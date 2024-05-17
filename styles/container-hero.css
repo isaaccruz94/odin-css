@@ -1,0 +1,5 @@
+@import "hero.css";
+@import "main.css";
+.container-hero{
+    background-color: var(--dark);
+}

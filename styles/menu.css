@@ -1,0 +1,21 @@
+.menu{
+
+}
+.menu-list{
+    margin: 0;
+    padding: 0 ;
+    display: flex;
+    gap: 1.5rem;
+}
+.menu-item{
+    list-style: none;
+}
+.menu-item a{
+    padding: .5rem;
+    color: var(--secondary);
+    transition:text .2s;
+}
+.menu-item a:hover{
+    color: white;
+    text-decoration: underline;
+}

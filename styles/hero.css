@@ -1,0 +1,6 @@
+@import "header.css";
+@import "menu.css";
+.hero{
+    background-color: var(--dark);
+    padding-block-end: 8rem;
+}

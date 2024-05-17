@@ -1,0 +1,10 @@
+@import "information-title.css";
+@import "information-cards.css";
+
+.infromation{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-block-end: 8rem;
+}

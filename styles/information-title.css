@@ -1,0 +1,8 @@
+.information-title{
+
+}
+.information-title h2{
+    font: var(--extra-bold);
+    color: var(--dark);
+    margin-block: 4rem;
+}

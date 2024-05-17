@@ -1,0 +1,25 @@
+@import "fonts.css";
+@import "link.css";
+@import "wrapper.css";
+@import "body.css";
+@import "container-hero.css";
+@import "information.css";
+@import "quote.css";
+@import "action.css";
+@import "footer.css";
+
+
+
+:root{
+    --secondary: #e5e7eb;
+    --logo: #f9faf8;
+    --dark: #1f2937;
+    --button: #3882f8;
+    --font: roboto;
+    /* buena forma de aplicar el font */
+    --extra-bold: bold  3rem/normal var(--font);
+    --font-base:  normal  1.25rem/normal var(--font);
+    --header:     bold  1.5rem/normal var(--font);
+    --header-bold: bold 2.25rem/normal var(--font);
+    --quote:      italic 2.25rem/normal var(--font);
+}

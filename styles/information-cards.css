@@ -1,0 +1,21 @@
+.information-cards{
+    display: flex;
+    gap: 2rem;
+}
+.information-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    inline-size: 200px;
+}
+.information-box{
+    inline-size: 10rem;
+    block-size: 10rem;
+    border: .25rem solid var(--button);
+    border-radius: 1rem;
+}
+.information-text{
+    margin: 0;
+    text-align: center;
+    color: gray;
+}
